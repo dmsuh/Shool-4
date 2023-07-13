@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Mercedes-Benz",
+      "price": 64590,
+      "image": "/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Honda",
+      "price": 24545,
+      "image": "/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lambo",
+      "price": 149990,
+      "image": "/4.webp"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "BMW",
+      "price": "49590",
+      "image": "/3.jpg",
+      "id": 7
+    },
+    {
+      "name": "BMW 2",
+      "price": "61300",
+      "image": "/3.jpg",
+      "id": 8
+    },
+    {
+      "name": "1",
+      "price": "1",
+      "image": "1",
+      "id": 9
+    },
+    {
+      "name": "Lambo 2",
+      "price": "149500",
+      "image": "/4.webp",
+      "id": 10
+    }
+  ]
+}
